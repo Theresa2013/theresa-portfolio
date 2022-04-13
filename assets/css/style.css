@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(106, 171, 231);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+header {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+header nav {
+    margin: 0;
+}
+
+header h1 {
+    padding: 25px;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    list-style: none;
+}
+
+header nav ul li {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 15px;
+}
+
+header nav ul li a {
+    color: black;
+}
+
+header nav ul li a:hover {
+    background: rgb(224, 156, 233);
+    color: black;
+}
+
