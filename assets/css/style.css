@@ -49,3 +49,82 @@ header nav ul li a:hover {
     color: black;
 }
 
+.about-me h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.about-me p {
+    display: flex;
+    justify-content: center;
+
+}
+
+.my-projects {
+    display: flex;
+    justify-content: center;
+}
+
+.my-projects h2 {
+    display: flex;
+    justify-content: center;
+    border-bottom: 3px solid;
+}
+
+.my-projects p {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid;
+}
+
+.project p {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid;
+    border-radius: 20px;
+}
+
+.html {
+    padding: 40px 50px;
+}
+
+.html:hover{
+    background-color: rgb(224, 156, 233);
+}
+
+.java {
+    padding: 20px 50px;
+}
+
+.java:hover {
+    background-color: rgb(224, 156, 233);
+}
+
+.node {
+    text-align:;
+}
+
+.node:hover {
+    background-color: rgb(224, 156, 233);
+}
+
+.express {
+
+}
+
+.express:hover {
+    background-color: rgb(224, 156, 233);
+}
+
+.sql {
+
+}
+
+.sql:hover {
+    background-color: rgb(224, 156, 233);
+}
+
+.contact-info {
+    display: flex;
+    justify-content: space-around;
+}
