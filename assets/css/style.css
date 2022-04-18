@@ -1,5 +1,5 @@
 * {
-    margin: auto;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -74,57 +74,41 @@ header nav ul li a:hover {
     margin: 0;
     display: inline;
 }
-.project {
-    padding: 20px;
-    border: 3px solid;
-    border-radius: 20px;
-}
 
 .project p {
     display: flex;
     justify-content: space-around;
+}
+
+.project button {
+    color: black;
     border: 1px solid;
     border-radius: 15px;
 }
 
-.html {
-    padding: 100px;
-}
-
-.html:hover{
+.project button:hover {
     background-color: rgb(224, 156, 233);
 }
+
+.html {
+    padding: 50px;
+}
+
 
 .java {
     padding: 20px;
-}
-
-.java:hover {
-    background-color: rgb(224, 156, 233);
 }
 
 .node {
     padding: 20px;
 }
 
-.node:hover {
-    background-color: rgb(224, 156, 233);
-}
-
 .express {
     padding: 20px;
 }
 
-.express:hover {
-    background-color: rgb(224, 156, 233);
-}
-
 .sql {
     padding: 20px;
-}
-
-.sql:hover {
-    background-color: rgb(224, 156, 233);
 }
 
 .contact-info {
