@@ -71,32 +71,41 @@ header nav ul li a:hover {
 }
 
 .my-projects {
-    margin: 0;
-    display: inline;
+    display: flex;
+    justify-content: center;
 }
 
-.project p {
+.my-projects h2 {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    padding: 20px;
+}
+.project {
+    
 }
 
 .project button {
     color: black;
     border: 1px solid;
-    border-radius: 15px;
+    opacity: 1;
 }
 
 .project button:hover {
-    background-color: rgb(224, 156, 233);
+    background-color: transparent;
+    opacity: .75;
 }
 
 .html {
     padding: 50px;
+    background-image: url(/assets/images/hero-bg.jpg);
+    background-size: cover;
 }
 
 
 .java {
     padding: 20px;
+    background-image: url(/assets/images/java.jpg);
+    background-size: cover;
 }
 
 .node {
