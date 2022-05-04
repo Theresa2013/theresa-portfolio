@@ -1,1 +1,0 @@
-I have created my first portfolio for coding where you can find a short bio about me and how to reach me!
