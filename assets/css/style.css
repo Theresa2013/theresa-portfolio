@@ -94,14 +94,14 @@ header nav ul li a:hover {
 
 .html {
     padding: 50px;
-    background-image: url(assets/images/hero-bg.jpg);
+    background-image: url(./assets/images/hero-bg.jpg);
     background-size: cover;
     width: 100%;
 }
 
 .java {
     padding: 20px;
-    background-image: url(assets/images/java.jpg);
+    background-image: url(./assets/images/java.jpg);
     background-size: cover;
     width: 100%;
 }
