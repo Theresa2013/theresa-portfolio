@@ -26,3 +26,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 I have successfully created my first coding portfolio with an image of my family, a short bio about me, and how to reach me! 
 
+Diployed GitHub Link: https://theresa2013.github.io/theresa-portfolio/ 
