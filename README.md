@@ -1,3 +1,8 @@
+# Theresa's Portfolio
+
+## Purpose
+This is a website to showcase all of my projects that I have worked on while also telling a little bit about myself and how you can reach me!
+
 ## User Story
 
 ```
@@ -24,6 +29,19 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
-I have successfully created my first coding portfolio with an image of my family, a short bio about me, and how to reach me! 
+## Built With:
+* HTML
+* CSS
 
-Diployed GitHub Link: https://theresa2013.github.io/theresa-portfolio/ 
+## Website
+https://theresa2013.github.io/theresa-portfolio/ 
+
+## GitHub
+https://github.com/Theresa2013/theresa-portfolio.git 
+
+## Screenshots
+![demo](./assets/images/Screenshot1.png)
+![demo](./assets/images/Screenshot2.png)
+
+Contribution
+Made by Theresa Butterfield
