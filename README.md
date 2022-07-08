@@ -1,6 +1,7 @@
 # Theresa's Portfolio
 
 ## Purpose
+
 This is a website to showcase all of my projects that I have worked on while also telling a little bit about myself and how you can reach me!
 
 ## User Story
@@ -30,18 +31,27 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 ## Built With:
-* HTML
-* CSS
+
+- HTML
+- CSS
+- Javascript
+- Bootstrap
 
 ## Website
-https://theresa2013.github.io/theresa-portfolio/ 
+
+https://theresa2013.github.io/theresa-portfolio/
 
 ## GitHub
-https://github.com/Theresa2013/theresa-portfolio.git 
+
+https://github.com/Theresa2013/theresa-portfolio.git
 
 ## Screenshots
+
 ![demo](./assets/images/Screenshot1.png)
 ![demo](./assets/images/Screenshot2.png)
+![demo](./assets/images/Screenshot3.png)
+![demo](./assets/images/Screenshot4.png)
+![demo](./assets/images/Screenshot5.png)
 
 Contribution
 Made by Theresa Butterfield
