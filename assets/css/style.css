@@ -5610,7 +5610,7 @@
     }
   }
   @media (min-width: 1200px) {
-    .modal-xl {
+    .modal-lg {
       max-width: 1140px;
     }
   }
